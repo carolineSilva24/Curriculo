@@ -1,0 +1,18 @@
+body{
+  background-color: #e6e6ff;
+}
+.title{
+  color: blue;
+  text-align: center;
+  font-size: 40px;
+}
+.subtitle{
+  color:black;
+  font-size: 20px;
+  font-family:georgia;
+}
+.foto{
+  position: absolute; 
+	right: 95px; 
+	top: 100px; 
+}
